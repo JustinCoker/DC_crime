@@ -1,0 +1,77 @@
+[33mcommit 94b46a0c06ab7a7c69954b5c09e383e921d0881a[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Wed Jul 12 10:22:01 2017 -0400
+
+    Updated for better compat across machines
+
+[33mcommit 623fb05bdf17e98f8060e9d4da9892e9b35d0ad9[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Thu Jun 15 01:25:28 2017 -0400
+
+    prelim test map (reprojected crime data)
+
+[33mcommit 36656c81f5acb2a7831ba37e5020fe3b40a19c21[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Wed Jun 14 19:38:57 2017 -0400
+
+    prelim basemap incl bldg, road, waterway
+
+[33mcommit 4f14d09fc252668bebc86ea01f1d797e0dcbfd8c[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Wed Jun 14 19:37:12 2017 -0400
+
+    prelim basemap incl bldg, road, waterway
+
+[33mcommit 18931eab10e6acd2b975ff0e2db3a92eed83d35d[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Wed Jun 14 19:28:38 2017 -0400
+
+    prelim basemap incl bldg, road, waterway
+
+[33mcommit e39d5553c14e7166106f08f466496dd77b9814dd[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Wed Jun 14 19:27:45 2017 -0400
+
+    prelim basemap incl bldg, road, waterway
+
+[33mcommit 5fdc5ea1a470c8cbaa34786598fca99dca441fdc[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Wed Jun 14 02:15:31 2017 -0400
+
+    map of ward 1 with some features
+
+[33mcommit bc91d5081d5c44a36c9ee8ec38998e10ad439c74[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Tue Jun 13 22:36:08 2017 -0400
+
+    basemap with ward shapefile zoomed to DC
+
+[33mcommit ba08ec67e82c60c4c819425e46e10dedf3fdb3a6[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Tue Jun 13 19:57:19 2017 -0400
+
+    basemap
+
+[33mcommit e215e9e5547ec37a97e20059a565e090b3c336e2[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Tue Jun 13 18:45:46 2017 -0400
+
+    prelim basemap
+
+[33mcommit a620a8d8721d5328c4a87f780bc18f50307deb0b[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Tue Jun 13 18:08:44 2017 -0400
+
+    Create basemap of DC
+
+[33mcommit 5bb8fff27671379a0b2aab0726101c23c206af1e[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Tue Jun 13 17:49:55 2017 -0400
+
+    uploading ward 1 data
+
+[33mcommit eef2141d87fa21d2d5d30a0bf7d9b8f0131e1bc7[m
+Author: jmc0464 <jmc0464@users.noreply.github.com>
+Date:   Tue Jun 13 17:34:15 2017 -0400
+
+    Initial commit
